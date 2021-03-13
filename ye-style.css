@@ -170,7 +170,7 @@ body {
   font-size: 2rem;
   line-height: 1.5;
   background-color: var(--white);
-  background-image: url("https://uc302bacebf855330084ffdbf9b4.previews.dropboxusercontent.com/p/thumb/AAxGLT2f9dr4DFjr6vMbXLHP5szyJz29RYDnLFivSfx83tmNjh8U1hIRz0zfoKszhXlvtW972lDZBqPLfnRq-u1_8ECxIxh0BHOV119KhS8eJQ9UQWLseZ9M2F8yavqiUF9vYKwjZSXtzF9d_Oks39LbNug55sG3lCYNFz8BYc2cL0wJUEKXmyBaWXVSN2041s9ijJLQyAWQdYxUrqrNkprZQ6nJHx1EemONfqIDxljRnqxWEyU8BMF1YeHPfpj797zohkcKMHcpiPBxPHGmpzRnVWmVkDjvQ3D-yeHZVJWJzQGhYlaNRgXXwi45IuqmhbRbanubR2YcnTDBy4I4BjZ91ZlXWe8u-PaOQVlUnSbBMYDLHZtp29iSr6MUKe1gWSsw3D2lJZojrNUDvy4tL2Az/p.png?size=2048x1536&size_mode=3");
+  background-image: url("%PUBLIC_URL%/kanye.png");
 
   background-size: 60px;
 }

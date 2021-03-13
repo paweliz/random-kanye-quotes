@@ -170,7 +170,7 @@ body {
   font-size: 2rem;
   line-height: 1.5;
   background-color: var(--white);
-  background-image: url("%PUBLIC_URL%/kanye.png");
+  background-image: url(%PUBLIC_URL%/kanye.png);
 
   background-size: 60px;
 }
